@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @red-the-random-dev
-- 👀 I’m interested in development for .NET platform (and desktop in general) and development of game mods (especially Barotrauma)
-- 🌱 I’m currently learning C# and specifics of Unity engine
+- 👀 I’m interested in development for .NET platform (and desktop in general)
+- 🌱 I’m currently learning C# and specifics of MonoGame
 
 So much for the templated introduction.
 What do I do most time? I do some useful projects for .NET platform I chose because of C# being favored by me pretty much. It is a nice language with lots of fields of application.
